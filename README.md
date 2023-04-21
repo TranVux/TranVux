@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranvux&label=Profile%20views&color=0e75b6&style=flat" alt="tranvux" /> </p>
 
-- 💬 Ask me about **react, nodeJS**
-
 - 📫 How to reach me **vutran789jjjj@gmail.com**
-
-- ⚡ Fun fact **Wibu :<**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
