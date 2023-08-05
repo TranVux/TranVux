@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
-<h3 align="center">A mobile developer <3</h3>
+<h3 align="center">A mobile app developer <3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranvux&label=Profile%20views&color=0e75b6&style=flat" alt="tranvux" /> </p>
 
