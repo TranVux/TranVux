@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranvux&label=Profile%20views&color=0e75b6&style=flat" alt="tranvux" /> </p>
 
-- 📫 How to reach me **vutran789jjjj@gmail.com**
+- 📫 How to reach me **tranvux.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
